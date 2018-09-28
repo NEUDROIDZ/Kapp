@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "669835683911",
+    "firebase_url": "https://kurukucmr-acb41.firebaseio.com",
+    "project_id": "kurukucmr-acb41",
+    "storage_bucket": "kurukucmr-acb41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669835683911:android:bcd7d8f1478e0130",
+        "android_client_info": {
+          "package_name": "com.duke.kapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669835683911-s1jl9ahps8bka8vcr58vgo45nan3ae1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duke.kapp",
+            "certificate_hash": "f02437b933831053202414b41fcc8e3103ad34a7"
+          }
+        },
+        {
+          "client_id": "669835683911-aq9vg0rv8ffi39s7igr4gqdktjckat62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLfwKURrdCan5PQPMqadlN3ILj9cU58K4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669835683911-aq9vg0rv8ffi39s7igr4gqdktjckat62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
